@@ -1,86 +1,51 @@
-# 🚀 JAVA_FUNCTIONS
+# ☕ JAVA_FUNCTIONS
 
-A collection of Java utility functions and beginner-friendly programming problems.
-
-This repository contains Java programs that I have written while learning Java programming and Data Structures & Algorithms (DSA). I will continue updating this repository as I learn new concepts.
+Welcome to the **JAVA_FUNCTIONS** repository! A curated collection of essential Java programs covering data structures, algorithms, bit manipulation, and mathematical logic.
 
 ---
 
-## 📂 Functions Included
+## 🚀 Repository Directory
 
-| Function | Description |
-|----------|-------------|
-| ✅ Prime Number | Checks whether a number is prime |
-| ✅ Average | Calculates the average of numbers |
-| ✅ Greatest Number | Finds the greatest among given numbers |
-| ✅ Sum of Odd Numbers | Calculates the sum of odd numbers up to N |
+### 📊 Arrays & Matrices
+* `_2D_ARRAYS_SEARCH.java`
+* `ARRAYS_MAX_AND_MIN.java`
+* `ARRAYS_SEARCH.java`
+* `ARRAYS_SORTING.java`
+* `SPIRAL_ORDER_MATRIX.java`
 
----
+### 🔢 Mathematics & Logic
+* `average.java`
+* `DIVISION_WITHOUT_DIVISION_OPERATOR.java`
+* `Fibonacci.java`
+* `greatest.java`
+* `greatest_divisior.java`
+* `Main.java`
+* `prime.java`
+* `sum_of_odd.java`
 
-## 🛠️ Technologies Used
+### 🛠️ Bit Manipulation
+* `BINARY_AND_DECIMAL_CONVERSIONS.java`
+* `BIT_COUNT_1.java`
+* `BIT_GET.java`
+* `BIT_POWER_OF_2.java`
 
-- Java ☕
-- IntelliJ IDEA
-- Git
-- GitHub
-
----
-
-## 📁 Project Structure
-
-```
-JAVA_FUNCTIONS/
-│
-├── src/
-│   ├── prime.java
-│   ├── average.java
-│   ├── greatest.java
-│   └── sum_of_odd.java
-│
-└── README.md
-```
+### 🔤 Strings
+* `ARRAYS_STRING_NAMES.java`
+* `STRINGS.java`
+* `STRINGS_REPLACE.java`
+* `STRINGS_USERNAME.java`
 
 ---
 
-## 🎯 Purpose of this Repository
+## 👤 Author
 
-- Practice Java programming
-- Improve problem-solving skills
-- Learn function implementation
-- Build a strong programming foundation
-- Track my learning journey
+* **Your Name** - Vidhan Agarwal
 
 ---
 
+## 📌 Contribution
 
-
----
-
-## 📚 Learning Journey
-
-I am currently learning:
-
-- Java Programming
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Git & GitHub
-
-More programs will be added regularly as I progress.
+Contributions are welcome! Feel free to fork the repository, optimize existing algorithms, or submit pull requests with new functions.
 
 ---
-
-## ⭐ If you found this repository helpful
-
-If you like this repository, consider giving it a ⭐.
-
-It motivates me to keep learning and sharing more Java programs.
-
----
-
-## 👨‍💻 Author
-
-**Vidhan Agarwal**
-
-B.Tech CSE Student
-
-Learning Java • DSA • Open Source
+⭐ *If you find this repository helpful, please consider giving it a star!*
