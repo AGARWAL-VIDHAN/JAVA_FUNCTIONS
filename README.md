@@ -39,7 +39,7 @@ Welcome to the **JAVA_FUNCTIONS** repository! A curated collection of essential 
 
 ## 👤 Author
 
-* **Your Name** - Vidhan Agarwal
+*  Vidhan Agarwal
 
 ---
 
