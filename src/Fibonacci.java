@@ -10,7 +10,6 @@ public class Fibonacci {
            c=d;
             }
         }
-
     public static void main(String[] args){
         Scanner ch=new Scanner(System.in);
         System.out.print("ENTER THR RANGE OF FIBONACCI SERIES: ");
